@@ -40,7 +40,7 @@ func main() {
 
 	// Formatting
 	fmt.Printf("%.3f \n", pi) // Format
-	fmt.Printf("%s \n", "String") // String
+	fmt.Printf("%s \n", myName) // String
 	fmt.Printf("%T \n", isOver40) // Data Type
 	fmt.Printf("%t \n", isOver40) // Print Boolean
 	fmt.Printf("%d \n", 100) // Display Integer
